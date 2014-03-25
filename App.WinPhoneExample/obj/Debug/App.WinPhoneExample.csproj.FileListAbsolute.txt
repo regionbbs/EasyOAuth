@@ -1,0 +1,60 @@
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\App.WinPhoneExample\Bin\Debug\Assets\ApplicationIcon.png
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\App.WinPhoneExample\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\App.WinPhoneExample\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\App.WinPhoneExample\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\App.WinPhoneExample\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\App.WinPhoneExample\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\App.WinPhoneExample\Bin\Debug\App.WinPhoneExample.dll
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\App.WinPhoneExample\Bin\Debug\App.WinPhoneExample.pdb
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\App.WinPhoneExample\Bin\Debug\AppManifest.xaml
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\App.WinPhoneExample\Bin\Debug\Properties\WMAppManifest.xml
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\App.WinPhoneExample\Bin\Debug\App.WinPhoneExample_Debug_AnyCPU.xap
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\App.WinPhoneExample\obj\Debug\App.g.cs
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\App.WinPhoneExample\obj\Debug\MainPage.g.cs
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\App.WinPhoneExample\obj\Debug\App.WinPhoneExample.g.resources
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\App.WinPhoneExample\obj\Debug\App.WinPhoneExample.Resources.AppResources.resources
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\App.WinPhoneExample\obj\Debug\App.WinPhoneExample.csproj.GenerateResource.Cache
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\App.WinPhoneExample\obj\Debug\App.WinPhoneExample.dll
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\App.WinPhoneExample\obj\Debug\App.WinPhoneExample.pdb
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\App.WinPhoneExample\obj\Debug\XapCacheFile.xml
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\App.WinPhoneExample\Bin\Debug\EasyOAuth.Core.Portable.dll
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\App.WinPhoneExample\Bin\Debug\EasyOAuth.Providers.WinPhone.dll
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\App.WinPhoneExample\Bin\Debug\EasyOAuth.Core.Portable.pdb
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\App.WinPhoneExample\Bin\Debug\EasyOAuth.Providers.WinPhone.pdb
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\App.WinPhoneExample\obj\Debug\App.WinPhoneExample.csprojResolveAssemblyReference.cache
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\App.WinPhoneExample\obj\Debug\OAuthUserView.g.cs
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\App.WinPhoneExample\Bin\Debug\System.Net.Http.dll
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\App.WinPhoneExample\Bin\Debug\System.Net.Http.Primitives.dll
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\App.WinPhoneExample\Bin\Debug\System.Net.Http.xml
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\App.WinPhoneExample\Bin\Debug\System.Net.Http.Primitives.xml
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\App.WinPhoneExample\obj\Debug\OAuthTwitterCodeUI.g.cs
+E:\Projects\EasyOAuth 3.0\App.WinPhoneExample\Bin\Debug\Assets\ApplicationIcon.png
+E:\Projects\EasyOAuth 3.0\App.WinPhoneExample\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\Projects\EasyOAuth 3.0\App.WinPhoneExample\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\Projects\EasyOAuth 3.0\App.WinPhoneExample\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\Projects\EasyOAuth 3.0\App.WinPhoneExample\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\Projects\EasyOAuth 3.0\App.WinPhoneExample\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\Projects\EasyOAuth 3.0\App.WinPhoneExample\Bin\Debug\App.WinPhoneExample.dll
+E:\Projects\EasyOAuth 3.0\App.WinPhoneExample\Bin\Debug\App.WinPhoneExample.pdb
+E:\Projects\EasyOAuth 3.0\App.WinPhoneExample\Bin\Debug\AppManifest.xaml
+E:\Projects\EasyOAuth 3.0\App.WinPhoneExample\Bin\Debug\Properties\WMAppManifest.xml
+E:\Projects\EasyOAuth 3.0\App.WinPhoneExample\Bin\Debug\App.WinPhoneExample_Debug_AnyCPU.xap
+E:\Projects\EasyOAuth 3.0\App.WinPhoneExample\Bin\Debug\EasyOAuth.Core.Portable.dll
+E:\Projects\EasyOAuth 3.0\App.WinPhoneExample\Bin\Debug\EasyOAuth.Providers.WinPhone.dll
+E:\Projects\EasyOAuth 3.0\App.WinPhoneExample\Bin\Debug\System.Net.Http.dll
+E:\Projects\EasyOAuth 3.0\App.WinPhoneExample\Bin\Debug\System.Net.Http.Primitives.dll
+E:\Projects\EasyOAuth 3.0\App.WinPhoneExample\Bin\Debug\EasyOAuth.Core.Portable.pdb
+E:\Projects\EasyOAuth 3.0\App.WinPhoneExample\Bin\Debug\EasyOAuth.Providers.WinPhone.pdb
+E:\Projects\EasyOAuth 3.0\App.WinPhoneExample\Bin\Debug\System.Net.Http.xml
+E:\Projects\EasyOAuth 3.0\App.WinPhoneExample\Bin\Debug\System.Net.Http.Primitives.xml
+E:\Projects\EasyOAuth 3.0\App.WinPhoneExample\obj\Debug\App.WinPhoneExample.csprojResolveAssemblyReference.cache
+E:\Projects\EasyOAuth 3.0\App.WinPhoneExample\obj\Debug\App.g.cs
+E:\Projects\EasyOAuth 3.0\App.WinPhoneExample\obj\Debug\MainPage.g.cs
+E:\Projects\EasyOAuth 3.0\App.WinPhoneExample\obj\Debug\OAuthTwitterCodeUI.g.cs
+E:\Projects\EasyOAuth 3.0\App.WinPhoneExample\obj\Debug\OAuthUserView.g.cs
+E:\Projects\EasyOAuth 3.0\App.WinPhoneExample\obj\Debug\App.WinPhoneExample.g.resources
+E:\Projects\EasyOAuth 3.0\App.WinPhoneExample\obj\Debug\App.WinPhoneExample.Resources.AppResources.resources
+E:\Projects\EasyOAuth 3.0\App.WinPhoneExample\obj\Debug\App.WinPhoneExample.csproj.GenerateResource.Cache
+E:\Projects\EasyOAuth 3.0\App.WinPhoneExample\obj\Debug\App.WinPhoneExample.dll
+E:\Projects\EasyOAuth 3.0\App.WinPhoneExample\obj\Debug\App.WinPhoneExample.pdb
+E:\Projects\EasyOAuth 3.0\App.WinPhoneExample\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,9 @@
+d:\docs\visual studio 2013\Projects\EasyOAuth\WebProviders\obj\Debug\WebProviders.csprojResolveAssemblyReference.cache
+d:\docs\visual studio 2013\Projects\EasyOAuth\WebProviders\bin\Debug\EasyOAuth.Providers.Web.dll
+d:\docs\visual studio 2013\Projects\EasyOAuth\WebProviders\bin\Debug\EasyOAuth.Providers.Web.pdb
+d:\docs\visual studio 2013\Projects\EasyOAuth\WebProviders\bin\Debug\EasyOAuth.Core.dll
+d:\docs\visual studio 2013\Projects\EasyOAuth\WebProviders\bin\Debug\EasyOAuth.Core.pdb
+d:\docs\visual studio 2013\Projects\EasyOAuth\WebProviders\obj\Debug\EasyOAuth.Providers.Web.dll
+d:\docs\visual studio 2013\Projects\EasyOAuth\WebProviders\obj\Debug\EasyOAuth.Providers.Web.pdb
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WebProviders\bin\Debug\Newtonsoft.Json.dll
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WebProviders\bin\Debug\Newtonsoft.Json.xml

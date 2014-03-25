@@ -1,0 +1,26 @@
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WindowsPhoneProviders\obj\Debug\WinPhone.Providers.csprojResolveAssemblyReference.cache
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WindowsPhoneProviders\Bin\Debug\EasyOAuth.Providers.WinPhone.dll
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WindowsPhoneProviders\Bin\Debug\EasyOAuth.Providers.WinPhone.pdb
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WindowsPhoneProviders\Bin\Debug\EasyOAuth.Core.Portable.dll
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WindowsPhoneProviders\Bin\Debug\EasyOAuth.Core.Portable.pdb
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WindowsPhoneProviders\obj\Debug\EasyOAuth.Providers.WinPhone.dll
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WindowsPhoneProviders\obj\Debug\EasyOAuth.Providers.WinPhone.pdb
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WindowsPhoneProviders\Bin\Debug\System.Net.Http.dll
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WindowsPhoneProviders\Bin\Debug\System.Net.Http.Extensions.dll
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WindowsPhoneProviders\Bin\Debug\System.Net.Http.Primitives.dll
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WindowsPhoneProviders\Bin\Debug\System.Net.Http.xml
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WindowsPhoneProviders\Bin\Debug\System.Net.Http.Extensions.xml
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WindowsPhoneProviders\Bin\Debug\System.Net.Http.Primitives.xml
+E:\Projects\EasyOAuth 3.0\WindowsPhoneProviders\Bin\Debug\EasyOAuth.Providers.WinPhone.dll
+E:\Projects\EasyOAuth 3.0\WindowsPhoneProviders\Bin\Debug\EasyOAuth.Providers.WinPhone.pdb
+E:\Projects\EasyOAuth 3.0\WindowsPhoneProviders\Bin\Debug\EasyOAuth.Core.Portable.dll
+E:\Projects\EasyOAuth 3.0\WindowsPhoneProviders\Bin\Debug\System.Net.Http.dll
+E:\Projects\EasyOAuth 3.0\WindowsPhoneProviders\Bin\Debug\System.Net.Http.Extensions.dll
+E:\Projects\EasyOAuth 3.0\WindowsPhoneProviders\Bin\Debug\System.Net.Http.Primitives.dll
+E:\Projects\EasyOAuth 3.0\WindowsPhoneProviders\Bin\Debug\EasyOAuth.Core.Portable.pdb
+E:\Projects\EasyOAuth 3.0\WindowsPhoneProviders\Bin\Debug\System.Net.Http.xml
+E:\Projects\EasyOAuth 3.0\WindowsPhoneProviders\Bin\Debug\System.Net.Http.Extensions.xml
+E:\Projects\EasyOAuth 3.0\WindowsPhoneProviders\Bin\Debug\System.Net.Http.Primitives.xml
+E:\Projects\EasyOAuth 3.0\WindowsPhoneProviders\obj\Debug\WinPhone.Providers.csprojResolveAssemblyReference.cache
+E:\Projects\EasyOAuth 3.0\WindowsPhoneProviders\obj\Debug\EasyOAuth.Providers.WinPhone.dll
+E:\Projects\EasyOAuth 3.0\WindowsPhoneProviders\obj\Debug\EasyOAuth.Providers.WinPhone.pdb

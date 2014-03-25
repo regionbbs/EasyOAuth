@@ -1,0 +1,38 @@
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WinRT.Providers\bin\Debug\EasyOAuth.Providers.WinRT.dll
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WinRT.Providers\bin\Debug\EasyOAuth.Providers.WinRT.pdb
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WinRT.Providers\bin\Debug\EasyOAuth.Providers.WinRT.pri
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WinRT.Providers\bin\Debug\EasyOAuth.Core.Portable.dll
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WinRT.Providers\bin\Debug\EasyOAuth.Core.Portable.pdb
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WinRT.Providers\obj\Debug\WinRT.Providers.csprojResolveAssemblyReference.cache
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WinRT.Providers\obj\Debug\EasyOAuth.Providers.WinRT.dll
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WinRT.Providers\obj\Debug\EasyOAuth.Providers.WinRT.pdb
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WinRT.Providers\obj\Debug\priconfig.xml
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WinRT.Providers\obj\Debug\priconfig.xml.intermediate
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WinRT.Providers\obj\Debug\layout.resfiles
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WinRT.Providers\obj\Debug\layout.resfiles.intermediate
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WinRT.Providers\obj\Debug\resources.resfiles
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WinRT.Providers\obj\Debug\resources.resfiles.intermediate
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WinRT.Providers\obj\Debug\pri.resfiles
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WinRT.Providers\obj\Debug\pri.resfiles.intermediate
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WinRT.Providers\obj\Debug\qualifiers.txt
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WinRT.Providers\obj\Debug\qualifiers.txt.intermediate
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\WinRT.Providers\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Projects\EasyOAuth 3.0\WinRT.Providers\bin\Debug\EasyOAuth.Providers.WinRT.dll
+E:\Projects\EasyOAuth 3.0\WinRT.Providers\bin\Debug\EasyOAuth.Providers.WinRT.pdb
+E:\Projects\EasyOAuth 3.0\WinRT.Providers\bin\Debug\EasyOAuth.Providers.WinRT.pri
+E:\Projects\EasyOAuth 3.0\WinRT.Providers\bin\Debug\EasyOAuth.Core.Portable.dll
+E:\Projects\EasyOAuth 3.0\WinRT.Providers\bin\Debug\EasyOAuth.Core.Portable.pdb
+E:\Projects\EasyOAuth 3.0\WinRT.Providers\obj\Debug\WinRT.Providers.csprojResolveAssemblyReference.cache
+E:\Projects\EasyOAuth 3.0\WinRT.Providers\obj\Debug\EasyOAuth.Providers.WinRT.dll
+E:\Projects\EasyOAuth 3.0\WinRT.Providers\obj\Debug\EasyOAuth.Providers.WinRT.pdb
+E:\Projects\EasyOAuth 3.0\WinRT.Providers\obj\Debug\priconfig.xml
+E:\Projects\EasyOAuth 3.0\WinRT.Providers\obj\Debug\priconfig.xml.intermediate
+E:\Projects\EasyOAuth 3.0\WinRT.Providers\obj\Debug\layout.resfiles
+E:\Projects\EasyOAuth 3.0\WinRT.Providers\obj\Debug\layout.resfiles.intermediate
+E:\Projects\EasyOAuth 3.0\WinRT.Providers\obj\Debug\resources.resfiles
+E:\Projects\EasyOAuth 3.0\WinRT.Providers\obj\Debug\resources.resfiles.intermediate
+E:\Projects\EasyOAuth 3.0\WinRT.Providers\obj\Debug\pri.resfiles
+E:\Projects\EasyOAuth 3.0\WinRT.Providers\obj\Debug\pri.resfiles.intermediate
+E:\Projects\EasyOAuth 3.0\WinRT.Providers\obj\Debug\qualifiers.txt
+E:\Projects\EasyOAuth 3.0\WinRT.Providers\obj\Debug\qualifiers.txt.intermediate
+E:\Projects\EasyOAuth 3.0\WinRT.Providers\obj\Debug\MultipleQualifiersPerDimensionFound.txt

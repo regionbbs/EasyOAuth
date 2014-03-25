@@ -1,0 +1,14 @@
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\Core.Portable\obj\Debug\Core.Portable.csprojResolveAssemblyReference.cache
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\Core.Portable\bin\Debug\EasyOAuth.Core.Portable.dll
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\Core.Portable\bin\Debug\EasyOAuth.Core.Portable.pdb
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\Core.Portable\bin\Debug\Newtonsoft.Json.dll
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\Core.Portable\bin\Debug\Newtonsoft.Json.xml
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\Core.Portable\obj\Debug\EasyOAuth.Core.Portable.dll
+d:\Docs\Visual Studio 2013\Projects\EasyOAuth\Core.Portable\obj\Debug\EasyOAuth.Core.Portable.pdb
+E:\Projects\EasyOAuth 3.0\Core.Portable\bin\Debug\EasyOAuth.Core.Portable.dll
+E:\Projects\EasyOAuth 3.0\Core.Portable\bin\Debug\EasyOAuth.Core.Portable.pdb
+E:\Projects\EasyOAuth 3.0\Core.Portable\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\EasyOAuth 3.0\Core.Portable\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\EasyOAuth 3.0\Core.Portable\obj\Debug\Core.Portable.csprojResolveAssemblyReference.cache
+E:\Projects\EasyOAuth 3.0\Core.Portable\obj\Debug\EasyOAuth.Core.Portable.dll
+E:\Projects\EasyOAuth 3.0\Core.Portable\obj\Debug\EasyOAuth.Core.Portable.pdb

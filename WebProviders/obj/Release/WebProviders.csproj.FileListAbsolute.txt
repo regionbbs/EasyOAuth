@@ -1,0 +1,7 @@
+d:\docs\visual studio 2013\Projects\EasyOAuth\WebProviders\bin\Release\EasyOAuth.Providers.Web.dll
+d:\docs\visual studio 2013\Projects\EasyOAuth\WebProviders\bin\Release\EasyOAuth.Providers.Web.pdb
+d:\docs\visual studio 2013\Projects\EasyOAuth\WebProviders\bin\Release\EasyOAuth.Core.dll
+d:\docs\visual studio 2013\Projects\EasyOAuth\WebProviders\bin\Release\EasyOAuth.Core.pdb
+d:\docs\visual studio 2013\Projects\EasyOAuth\WebProviders\obj\Release\WebProviders.csprojResolveAssemblyReference.cache
+d:\docs\visual studio 2013\Projects\EasyOAuth\WebProviders\obj\Release\EasyOAuth.Providers.Web.dll
+d:\docs\visual studio 2013\Projects\EasyOAuth\WebProviders\obj\Release\EasyOAuth.Providers.Web.pdb

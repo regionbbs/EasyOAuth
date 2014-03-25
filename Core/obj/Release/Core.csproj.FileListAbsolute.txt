@@ -1,0 +1,4 @@
+d:\docs\visual studio 2013\Projects\EasyOAuth\Core\bin\Release\EasyOAuth.Core.dll
+d:\docs\visual studio 2013\Projects\EasyOAuth\Core\bin\Release\EasyOAuth.Core.pdb
+d:\docs\visual studio 2013\Projects\EasyOAuth\Core\obj\Release\EasyOAuth.Core.dll
+d:\docs\visual studio 2013\Projects\EasyOAuth\Core\obj\Release\EasyOAuth.Core.pdb
